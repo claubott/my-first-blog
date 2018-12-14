@@ -1,1 +1,1 @@
-this is a branch
+This blog is the result of the Django Girls tutorial
